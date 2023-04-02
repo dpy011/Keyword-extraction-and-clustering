@@ -1,7 +1,7 @@
 # Keyword-extraction-and-clustering
 The repository contains Jupyter Notebook of codes used to extract keywords using [KeyBERT](https://maartengr.github.io/KeyBERT/index.html) and clustering of keywords using [Fast clustering algorithm](https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/clustering/fast_clustering.py).
 
-Unfortunatley, the data used to extract keywords cannot be open sourced due to data privacy. However the sample json file would look like following:
+The data used to extract keywords cannot be open sourced due to data privacy. However the sample json file would look like following:
 ```
 {
   "userInfo": {
